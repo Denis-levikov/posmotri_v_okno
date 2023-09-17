@@ -38,7 +38,8 @@ ol {
 }
 
 .content {
-  
+  margin-left: 30px;
+  margin-top: 133px;
   display: flex;
 justify-content: center;
 align-items: flex-end;
@@ -131,7 +132,7 @@ font-family: Oswald;
 font-size: 30px;
 font-style: normal;
 font-weight: 700;
-
+line-height: 100%;
 text-transform: uppercase;
 }
 .title {
