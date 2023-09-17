@@ -91,7 +91,7 @@ ol {
 .content__video-card-thumbnail {
   width: 194px;
   height: 103px;
-  flex-shrink: 0;
+  
 }
 .content__video-card-description-container {
   width: 100%;
