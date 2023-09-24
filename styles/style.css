@@ -60,6 +60,9 @@ ol {
   width: 399px;
   position: relative;
 }
+.content__list::-webkit-scrollbar {
+  width: 0;
+}
 .content__details {
   display: flex;
   flex-direction: column;
